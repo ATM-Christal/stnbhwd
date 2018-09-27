@@ -9,7 +9,7 @@ description = {
    summary = "Spatial Transformer Networks for Torch",
    detailed = [[
    ]],
-   homepage = "https://github.com/ATM-Christal/stnbhwd",
+   homepage = "https://github.com/ATM-Christal/stnbhwd/",
    license = "MIT"
 }
 
